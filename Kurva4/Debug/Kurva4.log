@@ -1,0 +1,6 @@
+﻿  MainForm.cpp
+c:\users\sasha\onedrive\документи\visual studio 2015\projects\kurva4\kurva4\Element.h(40): warning C4800: 'Element::Type': forcing value to bool 'true' or 'false' (performance warning)
+MainForm.cpp(9): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MainForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Kurva4.vcxproj -> C:\Users\sasha\OneDrive\Документи\Visual Studio 2015\Projects\Kurva4\Debug\Kurva4.exe
+  Kurva4.vcxproj -> C:\Users\sasha\OneDrive\Документи\Visual Studio 2015\Projects\Kurva4\Debug\Kurva4.pdb (Partial PDB)
